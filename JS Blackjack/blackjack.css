@@ -1,0 +1,24 @@
+body{
+    background-image: radial-gradient(rgb(7, 99, 7), rgb(10, 44, 15));
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    font-family: Arial;
+    text-align: center;
+    color: rgb(221, 221, 221);
+    text-shadow: 2px 2px 3px black;
+    margin-top:130px;
+}
+
+#DealerCards img , #YourCards img{
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+}
